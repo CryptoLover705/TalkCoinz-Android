@@ -1,1 +1,2 @@
-# TalkCoinz-Android
+# TalkCoinz
+TalkCoinz with firebase.
