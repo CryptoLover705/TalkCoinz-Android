@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "367753011954",
+    "firebase_url": "https://talkcoinz2-2d74f.firebaseio.com",
+    "project_id": "talkcoinz2-2d74f",
+    "storage_bucket": "talkcoinz2-2d74f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367753011954:android:9bbbb608e54c6feaab666b",
+        "android_client_info": {
+          "package_name": "com.cryptoloversbots.talkcoinz2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367753011954-f12j25uenmbela1risb17ibes5p18b7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryptoloversbots.talkcoinz2",
+            "certificate_hash": "71098ec5e1742a6704f35088e1abf59428c527d4"
+          }
+        },
+        {
+          "client_id": "367753011954-9sdscnqrgk8icd9qnv7ok97slm24osb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_Pm_pg-BiBF_lE7LSlqnygzaRllfA5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367753011954-9sdscnqrgk8icd9qnv7ok97slm24osb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367753011954:android:3a3e898989b708e9ab666b",
+        "android_client_info": {
+          "package_name": "com.cryptoloversbots.talkcoinz2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367753011954-7vahfe1od8nbv30tsilu76fkloalkj7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryptoloversbots.talkcoinz2",
+            "certificate_hash": "71098ec5e1742a6704f35088e1abf59428c527d4"
+          }
+        },
+        {
+          "client_id": "367753011954-9sdscnqrgk8icd9qnv7ok97slm24osb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_Pm_pg-BiBF_lE7LSlqnygzaRllfA5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367753011954-9sdscnqrgk8icd9qnv7ok97slm24osb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
